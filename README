@@ -16,8 +16,8 @@
 
    - Instalación.
 
-      - Para instalarlo en windows, descarque el paquete, descomprimelo y ejecute el instalador.
-      - Para instalarlo en debian, ubuntu o derivados, descargue el paquete .deb e instalelo con dpkg -i
+    - Para instalarlo en windows, descargue el paquete, descomprimalo y ejecute el instalador.
+    - Para instalarlo en debian, ubuntu o derivados, descargue el paquete .deb e instalelo con "dpkg -i regcel-0.1.3_i386.deb" desde la terminal
    
    - Licensia
 
