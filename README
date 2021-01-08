@@ -16,7 +16,8 @@
 
    - Instalación.
 
-      Usted debe leer el archivo INSTALL para obtener más detalles.
+      - Para instalarlo en windows, descarque el paquete, descomprimelo y ejecute el instalador.
+      - Para instalarlo en debian, ubuntu o derivados, descargue el paquete .deb e instalelo con dpkg -i
    
    - Licensia
 
