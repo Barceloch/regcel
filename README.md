@@ -33,10 +33,10 @@ README
 ## Screenshots
 
 ### En Windows 10
-![windows](regcel-nova-lite.png)
+![windows](regcel-windows.png)
 
 ### En Nova GNU/Linux
-![Linux](regcel-windows.png)
+![Linux](regcel-nova-lite.png)
 
       
 
